@@ -10,10 +10,15 @@ The exercises are organized according to their **identification numbers (ID)** o
 
 ### Example Structure
 📂 beecrowd-sql-solutions
+
 ┣ 📄 README.md
+
 ┣ 📂 Solutions
+
 ┃ ┣ 📄 101.sql
+
 ┃ ┣ 📄 102.sql
+
 ┃ ┣ 📄 ...
 
 - **Solutions/**: Contains the complete solutions for each exercise.
