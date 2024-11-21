@@ -1,29 +1,31 @@
-# Beecrowd Exercise Solutions - SQL
+# Beecrowd Exercise Solutions - SQL & Python
 
-Welcome to the [Beecrowd](https://www.beecrowd.com.br/) **SQL exercise solutions** repository! 🚀
+Welcome to the **Beecrowd Exercise Solutions** repository! 🚀
 
-This repository was created with the goal of organizing and sharing the SQL problem solutions available on the Beecrowd platform, helping other developers and data enthusiasts to learn and practice their SQL skills.
+This repository was created with the goal of organizing and sharing solutions to Beecrowd platform problems, helping developers and enthusiasts to learn and practice their **SQL** and **Python** skills.
 
 ## 🗂 Repository Structure
 
-The exercises are organized according to their **identification numbers (ID)** on Beecrowd. Each file contains the SQL query corresponding to the problem solution, as well as explanatory comments, when necessary.
+The exercises are organized according to their **identification numbers (ID)** on the Beecrowd platform. Each file contains the solution corresponding to the problem, whether in SQL or Python, with explanatory comments when necessary.
 
 ### Example Structure
-📂 beecrowd-sql-solutions
 
+📂 solutions_beecrowd
 ┣ 📄 README.md
-
-┣ 📂 Solutions
-
+┣ 📂 SQL_Solutions
 ┃ ┣ 📄 101.sql
-
 ┃ ┣ 📄 102.sql
-
+┃ ┣ 📄 ...
+┣ 📂 Python_Solutions
+┃ ┣ 📄 100.py
+┃ ┣ 📄 101.py
 ┃ ┣ 📄 ...
 
-- **Solutions/**: Contains the complete solutions for each exercise.
+- **SQL_Solutions/**: Contains the complete solutions for the SQL exercises.
+- **Python_Solutions/**: Contains the complete solutions for the Python exercises.
 
 ## 📌 Technologies Used
-- **SQL**: The language used to solve the exercises.
 
-- **Beecrowd**: The platform that provides the problems.
+- **SQL**: Language used to solve database exercises.
+- **Python**: Programming language used to solve exercises related to logic and algorithms.
+- **Beecrowd**: The platform where the problems are hosted.
