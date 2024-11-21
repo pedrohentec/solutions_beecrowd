@@ -10,7 +10,6 @@ The exercises are organized according to their **identification numbers (ID)** o
 
 ### Example Structure
 📂 beecrowd-sql-solutions
-
 ┣ 📄 README.md
 
 ┣ 📂 Solutions
