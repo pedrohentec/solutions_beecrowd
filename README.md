@@ -11,14 +11,23 @@ The exercises are organized according to their **identification numbers (ID)** o
 ### Example Structure
 
 📂 solutions_beecrowd
+
 ┣ 📄 README.md
+
 ┣ 📂 SQL_Solutions
+
 ┃ ┣ 📄 101.sql
+
 ┃ ┣ 📄 102.sql
+
 ┃ ┣ 📄 ...
+
 ┣ 📂 Python_Solutions
+
 ┃ ┣ 📄 100.py
+
 ┃ ┣ 📄 101.py
+
 ┃ ┣ 📄 ...
 
 - **SQL_Solutions/**: Contains the complete solutions for the SQL exercises.
