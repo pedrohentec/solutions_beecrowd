@@ -11,11 +11,11 @@ The exercises are organized according to their **identification numbers (ID)** o
 ```
 📂 solutions_beecrowd
 ┣ 📄 README.md
-┣ 📂 SQL_Solutions
+┣ 📂 SQL
 ┃ ┣ 📄 101.sql
 ┃ ┣ 📄 102.sql
 ┃ ┣ 📄 ...
-┣ 📂 Python_Solutions
+┣ 📂 Python
 ┃ ┣ 📄 100.py
 ┃ ┣ 📄 101.py
 ┃ ┣ 📄 ...
